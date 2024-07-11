@@ -48,6 +48,12 @@ body:
         - 1.19.4
         - '1.20'
         - 1.20.1
+        - 1.20.2
+        - 1.20.3
+        - 1.20.4
+        - 1.20.5
+        - 1.20.6
+        - '1.21'
     validations:
       required: false
 
@@ -115,4 +121,4 @@ body:
         You further agree that you either own or have permission to use any content you have linked to within this form.
       options:
         - label: I agree to follow this project's Code of Conduct. I have permission to use all assets I have linked to within this form.
-          required: true
+          required: false
