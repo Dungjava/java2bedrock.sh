@@ -1,8 +1,10 @@
 name: Conversion Request
-on: workflow_dispatch
+on: 
   issues:
     types:
       - labeled
+  workflow_dispatch:
+    
 
 
 jobs:
