@@ -3,6 +3,8 @@ on:
   issues:
     types:
       - labeled
+on: workflow_dispatch
+
 
 jobs:
   get-pack-info:
